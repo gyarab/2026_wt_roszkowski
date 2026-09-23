@@ -27,7 +27,8 @@ Stallman prosazuje, aby uživatelé mohli software používat, studovat, upravov
 
 ## Obrázek
 
-![Richard Stallman](https://upload.wikimedia.org/wikipedia/commons/4/4e/Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg)
+<img width="960" height="1280" alt="Richard_Stallman" src="https://github.com/user-attachments/assets/b147c798-c348-4cdc-b6f7-5b477b99c91a" />
+
 
 ## Odkaz
 
