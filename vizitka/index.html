@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Řezáč</title>
+
+    <style>
+        body {
+            background-color: lightgray;
+            font-size: 16px;
+        }
+
+        .vizitka {
+            width: 90mm;
+            aspect-ratio: 9 / 5;
+            border: 2px solid black;
+            border-radius: 10px;
+            background-color: white;
+            padding: 10px;
+            margin: 100px auto;
+            position: relative;
+        }
+
+        .fotka {
+            width: 25%;
+            border: 2px solid black;
+            border-radius: 10px;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .jmeno {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 0;
+        }
+
+        .fotka:hover {
+            cursor: crosshair;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="vizitka">
+        <img src="fotka.png" class="fotka" onclick="alert('Já jsem Adam, nestřílej na mě❗')">
+        <h1 class="jmeno">Adam Řezáč</h1>
+        <p>Jsem žák na Gymnáziu Arabská,<br> blud a jahoda.</p>
+        <h2>Mé 3 oblíbené věci</h2>
+        <ul>
+            <li>gooning</li>
+            <li>Ondřeje Roszkyho</li>
+            <li>rybařeníčko</li>
+        </ul>
+    </div>
+
+</body>
+</html>
