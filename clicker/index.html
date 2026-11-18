@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click counter</title>
+</head>
+
+<body>
+
+    <h1>Click counter</h1>
+
+    <h2>Number of clicks:
+        <span id="counter">0</span>
+    </h2>
+
+    <button onclick="addClick();">Click me</button>
+    <button onclick="resetClicks();">Reset</button>
+
+    <script>
+        let count = 0;
+
+        function updateClicks() {
+            document.getElementById("counter").textContent = count;
+        }
+
+        function addClick() {
+            count++;
+            updateClicks();
+        }
+
+        function resetClicks() {
+            count = 0;
+            updateClicks();
+        }
+
+    </script>
+
+</body>
+
+</html>

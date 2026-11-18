@@ -11,6 +11,11 @@
             background-color: rgb(75, 0, 0);
             font-size: 16px;
             font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
         }
 
         .vizitka {
@@ -20,9 +25,10 @@
             border-radius: 15px;
             background-color: white;
             padding: 10px;
-            margin: 100px auto;
+            margin: 0;
             position: relative;
             box-shadow: 0 16px 40px rgba(0, 0, 0, 0.295);
+            text-align: left;
         }
 
         .fotka {
@@ -43,21 +49,38 @@
         .fotka:hover {
             cursor: crosshair;
         }
+
+        button {
+            background-color: rgb(75, 0, 0);
+            color: white;
+            border: 2px solid black;
+            border-radius: 8px;
+            padding: 8px;
+            cursor: pointer;
+        }
     </style>
 </head>
 
 <body>
     <div class="vizitka">
-        <img src="fotka.png" class="fotka" onclick="alert('Já jsem Adam, nestřílej na mě❗')">
+        <img src="fotka.png" class="fotka" alt="Adamova profilovka" onclick="alert('Já jsem Adam, nestřílej na mě❗')">
+
         <h1 class="jmeno">Adam Řezáč</h1>
+
         <p>Jsem žák na Gymnáziu Arabská,<br> blud a jahoda.</p>
+
         <h2>Mé 3 oblíbené věci</h2>
+
         <ul>
             <li>gooning</li>
-            <li>Ondřeje Roszkyho</li>
+            <li>Ondřej Roszky</li>
             <li>rybařeníčko</li>
         </ul>
-    </div>
 
+        <button onclick="alert('Tlačítko funguje')">
+            Klikni na mě
+        </button>
+    </div>
 </body>
+
 </html>
