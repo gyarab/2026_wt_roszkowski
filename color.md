@@ -12,7 +12,7 @@ Duolingo je známá společnost, která vytvořila stejnojmennou aplikaci pro v�
 
 ## Můj pohled
 
-Myslím si, že autoři zvolili tyto barvy hlavně proto, aby značka působila přátelsky, správně a zároveň motivovala uživatele pokračovat v učení.
+Myslím si, že autoři zvolili tyto barvy hlavně proto, že zelená sova je velmi netypická a výrazná - jednoduše zachytí pozornost prohlížejícího. Také se snažili, aby značka působila přátelsky, správně a zároveň motivovala uživatele pokračovat v učení.
 
 ## Zdroje
 
