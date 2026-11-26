@@ -9,7 +9,6 @@ Duolingo je známá společnost, která vytvořila stejnojmennou aplikaci pro v�
 - **Zelená** – symbolizuje správnost a bezchybnost, pokrok a také důvěryhodnost, což je velmi dobře vymyšlené pro jazykovou aplikaci, která má uživatele vést ke správným výsledkům.
 - **Oranžová** – vyjadřuje energii a povzbuzení, takže logo působí přátelsky a více motivačně.
 - **Žlutá** – připomíná radost a hravost, díky čemuž značka nepůsobí přísně jako učení ve škole.
-- **Bílá a tmavě šedá** – vytvářejí kontrast, zlepšují čitelnost a zvýrazňují výraz maskota.
 
 ## Můj pohled
 
